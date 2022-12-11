@@ -9,7 +9,6 @@
   border: none;
   outline: none;
 }
-
 html{
   font-size: 62.5%;
 }
@@ -347,7 +346,7 @@ bottom: 13rem;
   width: 100%;
   flex-direction: column;
   position: relative;
-  background: url(images/contact-us-bg.PNG) center no-repeat;
+  background: url(images/contact-us-bg.png) center no-repeat;
   animation: bg 25s infinite;
 }
 
